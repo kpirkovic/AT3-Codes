@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AT3 - Signature</title>
+</head>
+<body>
+    
+
+    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;
+    max-width: 480px; padding: 24px; border-radius: 8px; font-family: Arial, Helvetica, sans-serif; overflow: hidden; word-break: break-word; background: url(https://www.dropbox.com/s/y3lg8msnkx1nfhb/Block_green_outline.png?raw=1), #121212;; background-repeat: no-repeat; background-position: 108% 85px;
+    background-size: 95px; border-bottom: 1px solid #bef167;">
+        <tr>
+            <td width="auto" valign="center">
+                <img src="https://www.dropbox.com/s/vw05aux90cffbqe/Icon_whitegreenfill.png?raw=1" alt="AT3 Logo" style="display: block; width: 56px; height: 100%;">
+            </td>
+            <td width="auto" valign="top" style="position: relative; padding: 0 25px;">
+                <h3 style="font-size: 16px; font-weight: 700; color: #ffffff; padding-bottom: 6px; margin: 0">Charlotte Ward</h3>
+                <h5 style="font-size: 14px; font-weight: 400; color: #b3b3b3; margin: 0; margin-bottom: 16px;">Marketing Specialist at <a href="https://aroundthe3lock.io/" target="_blank"><span style="color: #bef167; text-decoration: underline;">Around The 3lock</span></a></h5>
+
+                <table>
+                    <tbody style="display: inline-block;">
+                        <tr>
+                            <a href="https://medium.com/" target="_blank" style="text-decoration: none;"><img src="https://www.dropbox.com/s/hkbf6s28fi9wsoj/Medium%20%281%29.png?dl=1" alt="Medium" width="32px" style="cursor: pointer; opacity: 0.9;"></a>
+                            <a href="https://www.instagram.com/" target="_blank" style="text-decoration: none;"><img src="https://www.dropbox.com/s/hxdjk6b1os01wda/Instagram.png?dl=1" alt="Instagram" width="32px" style="cursor: pointer; opacity: 0.9"></a>
+                            <a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none;"><img src="https://www.dropbox.com/s/zfnxl4hvwwxmtcc/Linkedin.png?dl=1" alt="Linkedin" width="32px" style="cursor: pointer; opacity: 0.9"></a>
+                            <a href="https://www.twitter.com/" target="_blank" style="text-decoration: none;"><img src="https://www.dropbox.com/s/2totf4a5tvv5n31/Twitter.png?dl=1" alt="Twitter" width="32px" style="cursor: pointer; opacity: 0.9"></a>
+                            <a href="https://www.discord.com/" target="_blank" style="text-decoration: none;"><img src="https://www.dropbox.com/s/l2j0dcsxdklcsz8/Discord.png?dl=1" alt="Discord" width="32px" style="cursor: pointer; opacity: 0.9"></a>
+                            <a href="https://www.lens.xyz/" target="_blank" style="text-decoration: none;"><img src="https://www.dropbox.com/s/3rsgwi3bq8bd23o/Lens%20Protocol.png?dl=1" alt="Lens Protocol" width="32px" style="cursor: pointer; opacity: 0.9"></a>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </td>
+        </tr>
+    </table>
+
+    <!-- <video class="at3-video" src="/at3-cube-animation.mov" autoplay muted></video>
+
+
+    <style>
+
+        .at3-video {
+            animation: slowMo 4s ease-in-out infinite;
+            animation-delay: 2s;
+            padding: 20px;
+        }
+
+        @keyframes slowMo {
+            0% {
+                transform: translateY(0%);
+            }
+
+            50% {
+                transform: translateY(20%);
+            }
+
+            100% {
+                transform: translateY(0%);
+            }
+        }
+
+    </style>
+
+</body>
+</html>
